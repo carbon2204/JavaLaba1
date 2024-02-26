@@ -1,8 +1,8 @@
-package com.laba1.TextAnal.controller;
+package com.laba1.textAnal.controller;
 
 
-import com.laba1.TextAnal.model.Car;
-import com.laba1.TextAnal.service.CarAnalyzerService;
+import com.laba1.textAnal.model.Car;
+import com.laba1.textAnal.service.CarAnalyzerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

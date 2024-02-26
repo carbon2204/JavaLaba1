@@ -1,6 +1,6 @@
-package com.laba1.TextAnal.service;
+package com.laba1.textAnal.service;
 
-import com.laba1.TextAnal.model.Car;
+import com.laba1.textAnal.model.Car;
 import org.springframework.stereotype.Service;
 
 import java.util.regex.Matcher;

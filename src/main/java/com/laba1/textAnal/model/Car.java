@@ -1,4 +1,4 @@
-package com.laba1.TextAnal.model;
+package com.laba1.textAnal.model;
 
 public class Car {
     private String vin;
