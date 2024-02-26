@@ -1,4 +1,4 @@
-package com.laba1.textAnal;
+package com.laba1.textanal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
